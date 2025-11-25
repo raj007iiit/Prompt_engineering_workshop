@@ -86,6 +86,9 @@ Each group selects a weak prompt and rewrites it using the five-step workflow.
 - **FACTS-H RA-iPromptingToolkit** (prompt comparison)  
 - **Perplexity / Gemini** (verification and fact-checking)  
 
+https://promptcraft-academy-695890547372.us-west1.run.app/
+
+https://ra-ipromptingtoolkit.vercel.app/
 ---
 
 ## 🏫 About FACTS-H  
